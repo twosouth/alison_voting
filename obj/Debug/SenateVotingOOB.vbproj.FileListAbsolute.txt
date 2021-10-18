@@ -1,0 +1,58 @@
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmMessage.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmOOB.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.Resources.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.vbproj.GenerateResource.Cache
+C:\Visual Studio Projects\SenateVotingOOB\bin\Debug\SenateVotingOOB.exe
+C:\Visual Studio Projects\SenateVotingOOB\bin\Debug\SenateVotingOOB.pdb
+C:\Visual Studio Projects\SenateVotingOOB\bin\Debug\SenateVotingOOB.xml
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.exe
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.xml
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.pdb
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmBoardAndCommissionListNew.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmChamberDisplay.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmMotionList.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmPhraseList.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmSenatorList.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmStart.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmVotingParameterMaintenance.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmPhraseShow.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmSenatorShow.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmDisplayBackGround.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmPreSOC.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmAboutNew.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmAbout.resources
+C:\Visual Studio Projects\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmMultipleOpenLegislativeDays.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\bin\Debug\SenateVotingOOB.exe.config
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\bin\Debug\SenateVotingOOB.exe
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\bin\Debug\SenateVotingOOB.pdb
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\bin\Debug\SenateVotingOOB.xml
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.vbprojResolveAssemblyReference.cache
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmAbout.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmAboutNew.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmBoardAndCommissionListNew.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmChamberDisplay.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmDisplayBackGround.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmMessage.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmMotionList.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmMultipleOpenLegislativeDays.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmOOB.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmPhraseShow.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmPreSOC.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmSenatorList.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmSenatorShow.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmStart.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmVotingParameterMaintenance.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.Resources.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.vbproj.GenerateResource.Cache
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.exe
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.xml
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.pdb
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmPhrasesList.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmPreSpecialOrderCalendar.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmProjectionDisplay.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVotingOOB\obj\Debug\SenateVotingOOB.frmProjectionDisplayAttributes.resources
+C:\VB2010 Projects\SenateVotingSystem\SenateVoteDisplay\bin\Debug\SenateVotingOOB.exe.config
+C:\VB2010 Projects\SenateVotingSystem\SenateVoteDisplay\obj\Debug\SenateVotingOOB.exe
+C:\VB2010 Projects\SenateVotingSystem\SenateVoteDisplay\obj\Debug\SenateVotingOOB.xml
+C:\VB2010 Projects\SenateVotingSystem\SenateVoteDisplay\obj\Debug\SenateVotingOOB.pdb

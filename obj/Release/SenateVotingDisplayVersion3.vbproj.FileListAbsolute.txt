@@ -1,0 +1,113 @@
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\bin\Release\SenateVotingVersion3.exe.config
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\bin\Release\SenateVotingVersion3.exe
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\bin\Release\SenateVotingVersion3.pdb
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\bin\Release\SenateVotingVersion3.xml
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingDisplayVersion3.vbproj.ResolveComReference.cache
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmBuildBill.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmAbout.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmBuildVoteIDnew.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmPhrasesList.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmAboutNew.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmBoardAndCommissionListNew.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmChamberDisplay.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmMessage.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmMotionList.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmMultipleOpenLegislativeDays.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmPreSOC.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmReport.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmSenatorList.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmMain.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmVote.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.frmVotingParameterMaintenance.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.Resources.resources
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingDisplayVersion3.vbproj.GenerateResource.Cache
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.exe
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.xml
+C:\VB2010 Projects\SenateVoteDisplay-Version3 - seperate-test-database\obj\Release\SenateVotingVersion3.pdb
+C:\VB2010 Projects\SenateVoteDisplay3\bin\Release\SenateVotingVersion3.exe.config
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingDisplayVersion3.vbproj.ResolveComReference.cache
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.exe
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.xml
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.pdb
+C:\VB2010 Projects\SenateVoteDisplay3\bin\Release\SenateVotingVersion3.exe
+C:\VB2010 Projects\SenateVoteDisplay3\bin\Release\SenateVotingVersion3.pdb
+C:\VB2010 Projects\SenateVoteDisplay3\bin\Release\SenateVotingVersion3.xml
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmBoardAndCommissionList.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmBuildBill.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmAbout.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmBuildVoteIDnew.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmChamberDisplay.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMotionList.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMultipleOpenLEGDays.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmPhrasesList.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmAboutNew.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMessage.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMultipleOpenLegislativeDays.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmPreSOC.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmReport.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmSenatorList.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMain.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmVote.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmVotingParameterMaintenance.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.Resources.resources
+C:\VB2010 Projects\SenateVoteDisplay3\obj\Release\SenateVotingDisplayVersion3.vbproj.GenerateResource.Cache
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\10-27-2015-on-production\Local Version\SenateVoteDisplay3\bin\Release\SenateVotingVersion3.exe.config
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\10-27-2015-on-production\Local Version\SenateVoteDisplay3\obj\Release\SenateVotingDisplayVersion3.vbproj.ResolveComReference.cache
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\10-27-2015-on-production\Local Version\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.exe
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\10-27-2015-on-production\Local Version\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.xml
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\10-27-2015-on-production\Local Version\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.pdb
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\bin\Release\SenateVotingVersion3.exe.config
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingDisplayVersion3.vbproj.ResolveComReference.cache
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.exe
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.xml
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.pdb
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\bin\Release\SenateVotingVersion3.exe
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\bin\Release\SenateVotingVersion3.pdb
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\bin\Release\SenateVotingVersion3.xml
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingDisplayVersion3.vbprojResolveAssemblyReference.cache
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmBoardAndCommissionList.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmBuildBill.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmAbout.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmBuildVoteIDnew.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmChamberDisplay.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMotionList.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMultipleOpenLEGDays.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmPhrasesList.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmAboutNew.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMessage.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMultipleOpenLegislativeDays.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmPreSOC.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmReport.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmSenatorList.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMain.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmVote.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmVotingParameterMaintenance.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.Resources.resources
+X:\2010-DOT-NET-Projects\SenateVotingSystem-Version3\11-17-2015-on-producation\Chamber PC\SenateVoteDisplay3\obj\Release\SenateVotingDisplayVersion3.vbproj.GenerateResource.Cache
+C:\VB.NET Projects\SenateVoteDisplay3\bin\Release\SenateVotingVersion3.exe.config
+C:\VB.NET Projects\SenateVoteDisplay3\bin\Release\SenateVotingVersion3.exe
+C:\VB.NET Projects\SenateVoteDisplay3\bin\Release\SenateVotingVersion3.pdb
+C:\VB.NET Projects\SenateVoteDisplay3\bin\Release\SenateVotingVersion3.xml
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingDisplayVersion3.vbproj.ResolveComReference.cache
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmBoardAndCommissionList.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmBuildBill.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmAbout.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmBuildVoteIDnew.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmChamberDisplay.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMotionList.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMultipleOpenLEGDays.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmPhrasesList.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmAboutNew.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMessage.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMultipleOpenLegislativeDays.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmPreSOC.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmReport.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmSenatorList.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmMain.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmVote.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.frmVotingParameterMaintenance.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.Resources.resources
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingDisplayVersion3.vbproj.GenerateResource.Cache
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.exe
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.xml
+C:\VB.NET Projects\SenateVoteDisplay3\obj\Release\SenateVotingVersion3.pdb

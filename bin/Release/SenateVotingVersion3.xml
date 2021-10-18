@@ -1,0 +1,120 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SenateVotingVersion3
+</name>
+</assembly>
+<members>
+<member name="P:SenateVotingVersion3.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.arrow_big_left">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.arrow_big_right">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.Down">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.imagesCA5VP4M">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.imagesCA5VP4M___Longer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.imagesCA5VP4MF">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.imagesCA8BXXN6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.imagesCAGLX23V">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.imagesCAGLX23V1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.imagesCATYEHXY">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.imagesCATYEHXY1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.imagesCATYEHXY2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.imagesCAU421KR">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.imagesCAU421KR1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.left">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.Picture1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.reload">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.reload1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.thumbnailCA2ENR32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.thumbnailCA2ENR322">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.untitled">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.untitled1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.untitledNew">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SenateVotingVersion3.My.Resources.Resources.Up">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SenateVotingVersion3.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

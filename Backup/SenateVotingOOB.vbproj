@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7EF1FE53-B279-4CAC-B29C-796F6FE3AF00}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SenateVotingOOB.My.MyApplication</StartupObject>
+    <RootNamespace>SenateVotingOOB</RootNamespace>
+    <AssemblyName>SenateVotingOOB</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SenateVotingOOB.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SenateVotingOOB.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=12.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=12.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=12.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ALIS.vb" />
+    <Compile Include="basErrorHandler.vb" />
+    <Compile Include="basFunction.vb" />
+    <Compile Include="frmAbout.designer.vb">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAboutNew.designer.vb">
+      <DependentUpon>frmAboutNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAboutNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBoardAndCommissionListNew.Designer.vb">
+      <DependentUpon>frmBoardAndCommissionListNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBoardAndCommissionListNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChamberDisplay.designer.vb">
+      <DependentUpon>frmChamberDisplay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmChamberDisplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDisplayBackground.Designer.vb">
+      <DependentUpon>frmDisplayBackground.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDisplayBackground.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMessage.Designer.vb">
+      <DependentUpon>frmMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMessage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMotionList.Designer.vb">
+      <DependentUpon>frmMotionList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMotionList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMultipleOpenLegislativeDays.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOOB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOOB.Designer.vb">
+      <DependentUpon>frmOOB.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhraseList.Designer.vb">
+      <DependentUpon>frmPhraseList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhraseList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhraseShow.Designer.vb">
+      <DependentUpon>frmPhraseShow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhraseShow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPreSOC.Designer.vb">
+      <DependentUpon>frmPreSOC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPreSOC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSenatorList.designer.vb">
+      <DependentUpon>frmSenatorList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSenatorList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSenatorShow.Designer.vb">
+      <DependentUpon>frmSenatorShow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSenatorShow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStart.Designer.vb">
+      <DependentUpon>frmStart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVotingParameterMaintenance.designer.vb">
+      <DependentUpon>frmVotingParameterMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVotingParameterMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="VotingSystem.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAboutNew.resx">
+      <DependentUpon>frmAboutNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBoardAndCommissionListNew.resx">
+      <DependentUpon>frmBoardAndCommissionListNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChamberDisplay.resx">
+      <DependentUpon>frmChamberDisplay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDisplayBackground.resx">
+      <DependentUpon>frmDisplayBackground.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMessage.resx">
+      <DependentUpon>frmMessage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMotionList.resx">
+      <DependentUpon>frmMotionList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMultipleOpenLegislativeDays.resX">
+      <DependentUpon>frmMultipleOpenLegislativeDays.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOOB.resx">
+      <DependentUpon>frmOOB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhraseList.resx">
+      <DependentUpon>frmPhraseList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhraseShow.resx">
+      <DependentUpon>frmPhraseShow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPreSOC.resx">
+      <DependentUpon>frmPreSOC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSenatorList.resx">
+      <DependentUpon>frmSenatorList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSenatorShow.resx">
+      <DependentUpon>frmSenatorShow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStart.resx">
+      <DependentUpon>frmStart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVotingParameterMaintenance.resx">
+      <DependentUpon>frmVotingParameterMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\untitledNew.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\untitled.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thumbnailCA2ENR322.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thumbnailCA2ENR32.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_big_right.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_big_left.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesCAU421KR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Down.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesCATYEHXY.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesCAGLX23V.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesCATYEHXY1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\untitled2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesCA5VP4MF.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesCA8BXXN6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesCAGLX23V1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesCATYEHXY2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesCA5VP4M.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
